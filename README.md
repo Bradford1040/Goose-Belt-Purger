@@ -1,7 +1,7 @@
 # Goose Belt Purger (GBP)
 A simple, lightweight, and low-cost belt purger for 3D printers.\
 An alternative to blob-producing purging routines and devices, or traditional purging into towers.\
-Originally designed for the Voron Trident, but small and light enough to be adapted for other printers.
+Officially supported printers are Voron Trident and 2.4, but it is small and light enough to be adapted for other printers.
 
   
 ![](/Assets/goose_small.jpg) ![](/Assets/IMG20250812205713_cropped_small.jpg)  
